@@ -37,12 +37,12 @@ of various algorithms along with video explanations and links to relevant resour
 
 ### Search
 * Binary Search:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Search/BinarySearch.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Search/BinarySearch.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/BinarySearch.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/BinarySearch.js )
   * Video Link (Coming Soon)
 * Interpolation Search
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Search/InterpolationSearch.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Search/InterpolationSearch.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/InterpolationSearch.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/InterpolationSearch.js)
   * Video Link (coming soon)
 
 ### Greedy Algos
