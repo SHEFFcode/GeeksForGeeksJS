@@ -47,21 +47,21 @@ of various algorithms along with video explanations and links to relevant resour
 
 ### Greedy Algos
 * Greedy Algorithms
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/Greedy%20Algorithms.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Greedy%20Algorithms.md)
 * Activity Selection:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/ActivitySelection.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/ActivitySelection.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/ActivitySelection.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/ActivitySelection.js)
   * Video Link (coming soon)
 * Dijkstra's Algorithm (I call it ditkas, so sue me):
   * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/DitkasAlgo.md)
   * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/DijkstrasShortestPath.py)
   * Video Link (coming soon)
 * Minimum Number of Platforms:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/MinNumberOfPlatforms.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/MinNumberOfPlatforms.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfCoins.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfPlatforms.js)
 * Minimum Number of Coins:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/MinNumberOfCoins.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Greedy/MinNumberOfCoins.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfCoins.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfCoins.js)
 
 ### Dyanamic Programming
 * Theory:
