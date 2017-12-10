@@ -21,19 +21,19 @@ of various algorithms along with video explanations and links to relevant resour
   * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/SelectionSort.js)
   * [Video Link](https://youtu.be/qkEWDCjc8DU)
 * Stable Selection Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/StableSelectionSort.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/StableSelectionSort.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/StableSelectionSort.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/StableSelectionSort.js)
 * Insertion Sort:
-  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/InsertionSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/InsertionSort.py)
+  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/InsertionSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/InsertionSort.js)
   * [Video Link](https://youtu.be/Nbb4aNBTIBc)
 * Quick Sort:
-  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/QuickSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/Quicksort.py)
+  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/QuickSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/Quicksort.js)
   * Video Link (Coming Soon)
 * Merge Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/MergeSort.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/MergeSort.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/MergeSort.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/MergeSort.js)
 
 ### Search
 * Binary Search:
