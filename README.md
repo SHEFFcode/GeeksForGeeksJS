@@ -1,5 +1,5 @@
 # GeeksForGeeks JavaScript
-In this repo I intend to create a full featured repository of all of my algorithms knowledge, compete with javascript implementations
+In this repo I intend to create a full featured repository of all of my algorithms knowledge, compete with JavaScript implementations
 of various algorithms along with video explanations and links to relevant resources.
 
 ## Index:
@@ -7,18 +7,18 @@ of various algorithms along with video explanations and links to relevant resour
 ### General
 
 * General
-  * [Runtime Analysis](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/RuntimeAnalysis.md)
-  * [Analysis of Loops](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/Analysis%20of%20Loops.md)
-  * [7 Steps to approach Algos](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/7%20Steps.md)
-  * [Optimization Strats](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/Algorithm%20Strategies.md)
-  * [Algorithmic Paradigms](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Theory/AlgoParadigms.md)
+  * [Runtime Analysis](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/RuntimeAnalysis.md)
+  * [Analysis of Loops](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Analysis%20of%20Loops.md)
+  * [7 Steps to approach Algos](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/7%20Steps.md)
+  * [Optimization Strats](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Algorithm%20Strategies.md)
+  * [Algorithmic Paradigms](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/AlgoParadigms.md)
 
 ### Sorting
 * General Comparison of sort algos:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/AlgoComparison.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/AlgoComparison.md)
 * Selection Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/SelectionSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/SelectionSort.py)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/SelectionSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/SelectionSort.js)
   * [Video Link](https://youtu.be/qkEWDCjc8DU)
 * Stable Selection Sort:
   * [Theory](https://github.com/SHEFFcode/GeeksForGeeksPython/blob/master/Sorting/StableSelectionSort.md)
