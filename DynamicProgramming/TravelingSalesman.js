@@ -1,7 +1,7 @@
 const AdvancedDataStructures = require('./AdvancedDataStructures');
 
 class TravelingSalesman extends AdvancedDataStructures {
-
+  
 }
 
 class Index {
