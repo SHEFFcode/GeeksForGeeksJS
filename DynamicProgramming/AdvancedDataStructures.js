@@ -1,7 +1,7 @@
 class AdvancedDataStructures {
   constructor() {
     this.HashSet = HashSet;
-    this.Dictionary = Dictionary;
+    this.CustomKeyDictionary = CustomKeyDictionary;
   }
 }
 
@@ -66,36 +66,63 @@ class HashSet {
   }
 }
 
-class Dictionary {
+class CustomKeyDictionary {
   constructor() {
     this.container = {};
   }
 
   add(index, value) {
-    if (this.container[index]) {
-      return false;
+    let stringIndex = JSON.stringify(index);
+    if (!this.container[stringIndex]) {
+      this.container[stringIndex] = value;
     } else {
-      this.container[index] = value;
-      return true;
+      console.log(`Index is already in the dictionary.`)
     }
   }
 
   remove(index) {
-    if (this.container[index]) {
-      let returnValue = this.container[index];
-      delete this.container[index];
+    let stringIndex = JSON.stringify(index);
+    if (this.container[stringIndex]) {
+      let returnValue = this.container[stringIndex];
+      delete this.container[stringIndex];
       return returnValue;
     } else {
-      console.log(`Index ${index} not in dictionary.`)
+      console.log(`Index not in dictionary.`)
+      return null;
+    }
+  }
+
+  contains(index) {
+    let stringIndex = JSON.stringify(index);
+    if (this.container[stringIndex]) {
+      return true;
+    } else {
+      return false;
     }
   }
 
   retrieve(index) {
-    if (this.container[index]) {
-      return this.container[index];
+    let stringIndex = JSON.stringify(index);
+    if (this.container[stringIndex]) {
+      return this.container[stringIndex];
     } else {
-      console.log(`Index ${index} not in dictionary.`)
+      console.log(`Index not in dictionary.`)
+      return null;
     }
+  }
+
+  [Symbol.iterator]() {
+    let keys = Object.keys(this.container);
+    let index = -1;
+    return {
+      next: () => {
+        index = ++index;
+         return {
+           value: {key: keys[index], value: this.container[keys[index]]},
+           done: !(index in keys)
+          }
+        }
+    };
   }
 }
 
