@@ -6,6 +6,7 @@
 const TravelingSalesman = require('./DynamicProgramming/TravelingSalesman');
 const LIS = require('./DynamicProgramming/LIS');
 const LCS = require('./DynamicProgramming/LCS');
+const LPS = require('./DynamicProgramming/LPS');
 
 // var travelingSalesman = new TravelingSalesman();
 // travelingSalesman.minCost([
@@ -19,9 +20,12 @@ const LCS = require('./DynamicProgramming/LCS');
 // var result = lis.runLIS([10, 22, 9, 33, 21, 50, 41, 60], 8);
 // console.log(result);
 
-var lcs = new LCS();
-var result = lcs.runLCS("AGGTAB", "GTXTXAYB", 6, 8);
-console.log(result);
+// var lcs = new LCS();
+// var result = lcs.runLCS("AGGTAB", "GTXTXAYB", 6, 8);
+// console.log(result);
+
+var lps = new LPS();
+console.log(lps.runLPS('BBABCBCAB'));
 
 
 // const mergeSort = new MergeSort();

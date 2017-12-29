@@ -12,6 +12,7 @@ class AdvancedDataStructures {
     this.HashSet = HashSet;
     this.CustomKeyDictionary = CustomKeyDictionary;
     this.Stack = Stack;
+    this.Matrix = Matrix;
   }
 }
 
@@ -286,4 +287,19 @@ class HashSet {
   }
  }
 
+ /*==================================================================================================
+                                          Matrix
+ =================================================================================================*/
+class Matrix {
+  constructor(depth, length) {
+    let container = [];
+    for (let i = 0; i <= depth; i++) {
+      container[i] = [];
+      for (let j = 0; j <= length; j++) {
+        container[i][j] = null;
+      }
+    }
+    return container;
+  }
+}
 module.exports = AdvancedDataStructures;
