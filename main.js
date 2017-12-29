@@ -7,6 +7,7 @@ const TravelingSalesman = require('./DynamicProgramming/TravelingSalesman');
 const LIS = require('./DynamicProgramming/LIS');
 const LCS = require('./DynamicProgramming/LCS');
 const LPS = require('./DynamicProgramming/LPS');
+const Fibonacci = require('./DynamicProgramming/Fiboonacci');
 
 // var travelingSalesman = new TravelingSalesman();
 // travelingSalesman.minCost([
@@ -24,8 +25,13 @@ const LPS = require('./DynamicProgramming/LPS');
 // var result = lcs.runLCS("AGGTAB", "GTXTXAYB", 6, 8);
 // console.log(result);
 
-var lps = new LPS();
-console.log(lps.runLPS('BBABCBCAB'));
+// var lps = new LPS();
+// console.log(lps.runLPS('BBABCBCAB'));
+
+var fibonacci = new Fibonacci();
+console.log(fibonacci.runRecursive(6));
+console.log(fibonacci.runMemoization(6));
+console.log(fibonacci.runTabulation(6));
 
 
 // const mergeSort = new MergeSort();
