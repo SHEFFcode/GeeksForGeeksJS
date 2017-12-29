@@ -1,5 +1,5 @@
 class WWP {
-  runWWP(input, max) {
+  runWWP(input, max = 6) {
     var line = '';
     const words = input.split(' ');
 
