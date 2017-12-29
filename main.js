@@ -4,6 +4,7 @@
 // const QuickSort = require('./Quicksort');
 // const MergeSort = require('./MergeSort');
 const TravelingSalesman = require('./DynamicProgramming/TravelingSalesman');
+const LIS = require('./DynamicProgramming/LIS');
 
 var travelingSalesman = new TravelingSalesman();
 travelingSalesman.minCost([
@@ -12,6 +13,10 @@ travelingSalesman.minCost([
   [9, 6, 0, 12],
   [10, 4, 8, 0]
 ]);
+
+var lis = new LIS();
+var result = lis.runLIS([10, 22, 9, 33, 21, 50, 41, 60], 8);
+console.log(result);
 
 
 // const mergeSort = new MergeSort();
