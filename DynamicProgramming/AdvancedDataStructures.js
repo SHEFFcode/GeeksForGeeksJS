@@ -28,6 +28,9 @@ class HashSet {
     this.length = 0;
   }
 
+  /**
+   * Sorts the HashSet by length
+   */
   sort() {
     this.container.sort((x, y) => x.length - y.length)
   }
