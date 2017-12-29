@@ -8,7 +8,7 @@ const LIS = require('./DynamicProgramming/LIS');
 const LCS = require('./DynamicProgramming/LCS');
 const LPS = require('./DynamicProgramming/LPS');
 const Fibonacci = require('./DynamicProgramming/Fiboonacci');
-const WWP = require('./DynamicProgramming/WWP');
+const WWP = require('./Greedy/WWP');
 
 // var travelingSalesman = new TravelingSalesman();
 // travelingSalesman.minCost([
