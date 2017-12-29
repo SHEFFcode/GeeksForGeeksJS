@@ -11,6 +11,7 @@ class AdvancedDataStructures {
   constructor() {
     this.HashSet = HashSet;
     this.CustomKeyDictionary = CustomKeyDictionary;
+    this.Stack = Stack;
   }
 }
 
@@ -24,6 +25,11 @@ class AdvancedDataStructures {
 class HashSet {
   constructor() {
     this.container = [];
+    this.length = 0;
+  }
+
+  sort() {
+    this.container.sort((x, y) => x.length - y.length)
   }
 
   /**
@@ -34,19 +40,49 @@ class HashSet {
    */
   add(item) {
     let newItem = true;
-    this.container.forEach(element => {
+    for (let element of this.container) {
       if (item == element) {
         newItem = false;
         return;
       }
-    });
+    };
     if (newItem) {
       this.container.push(item);
+      this.container.sort();
+      this.length++;
       return 1;
     } else {
-      console.log(`Item ${item} is already in the set`);
+      // console.log(`Item ${item} is already in the set`);
       return 0;
     }
+  }
+
+  /**
+   * Accepts another HashSet as a parameter.
+   * Returns a copy of the given HashSet.
+   * @param { HasSet } hashSet 
+   */
+  createCopy() {
+    let newHashSet = new HashSet();
+    for (let item of this.container) {
+      newHashSet.add(item);
+    }
+    return newHashSet;
+  }
+
+  /**
+   * Checks if the item is in the HashSet.
+   * Returns true if it is.
+   * Returns false if it is not.
+   * @param { Any } item 
+   */
+  contains(item) {
+    for (let element of this.container) {
+      if (item === element) {
+        return true;
+      }
+    }
+    return false;
   }
 
   /**
@@ -60,10 +96,11 @@ class HashSet {
       if (item == element) {
         let returnItem = element;
         this.container.splice(index, 1);
+        this.length--;
         return returnItem;
       }
     });
-    console.log(`Item ${item} is not in the set.`)
+    // console.log(`Item ${item} is not in the set.`)
     return null;
   }
 
@@ -80,7 +117,7 @@ class HashSet {
         return returnItem;
       }
     });
-    console.log(`Item ${item} is not in the set.`)
+    // console.log(`Item ${item} is not in the set.`)
     return null;
   }
 
@@ -132,7 +169,7 @@ class HashSet {
       this.container[stringIndex] = value;
       return 1;
     } else {
-      console.log(`Index is already in the dictionary.`)
+      // console.log(`Index is already in the dictionary.`)
       return 0;
     }
   }
@@ -150,7 +187,7 @@ class HashSet {
       delete this.container[stringIndex];
       return returnValue;
     } else {
-      console.log(`Index not in dictionary.`)
+      // console.log(`Index not in dictionary.`)
       return null;
     }
   }
@@ -163,7 +200,7 @@ class HashSet {
    */
   contains(index) {
     let stringIndex = JSON.stringify(index);
-    if (this.container[stringIndex]) {
+    if (this.container[stringIndex] != undefined || this.container[stringIndex] != null) {
       return true;
     } else {
       return false;
@@ -178,10 +215,10 @@ class HashSet {
    */
   retrieve(index) {
     let stringIndex = JSON.stringify(index);
-    if (this.container[stringIndex]) {
+    if (this.container[stringIndex] != undefined || this.container[stringIndex] != null) {
       return this.container[stringIndex];
     } else {
-      console.log(`Index not in dictionary.`)
+      // console.log(`Index not in dictionary.`)
       return null;
     }
   }
@@ -204,5 +241,46 @@ class HashSet {
     };
   }
 }
+
+/*==================================================================================================
+                                              Stack
+ =================================================================================================*/
+ class Stack {
+   constructor() {
+     this.container = [];
+   }
+
+   /**
+    * Pushes an item onto the stack.
+    * @param { Any } item 
+    */
+   push(item) {
+    this.container.push(item);
+   }
+
+   /**
+    * Pops the item from the Stack and returns it.
+    */
+   pop() {
+    return this.container.pop();
+   }
+
+  /**
+   * Iterator function to iterate over the set via for (let item of items) loop.
+   * See MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
+   */
+  [Symbol.iterator]() {
+    let index = -1;
+    return {
+      next: () => {
+        let indexNow = ++index;
+         return {
+           value: this.container[this.container.length - 1 - indexNow],
+           done: !(indexNow in this.container)
+          }
+        }
+    };
+  }
+ }
 
 module.exports = AdvancedDataStructures;
