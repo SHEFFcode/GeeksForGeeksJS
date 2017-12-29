@@ -5,7 +5,7 @@ class WWP {
 
     words.forEach((word) => {
       if ((line + word).length < max) {
-        line += word;
+        line += `${word} `;
       } else if ((line + word).length === max) {
         line += word;
         console.log(line);
@@ -13,7 +13,7 @@ class WWP {
       } else {
         console.log(line);
         line = '';
-        line += word;
+        line += `${word} `;
       }
     });
 
