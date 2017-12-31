@@ -23,7 +23,10 @@ class Graph {
 class GraphMatrix {
   constructor(vertexCount) {
     this.vertexCount = vertexCount;
-    this.adjMatrix = [[]];
+    this.adjMatrix = [];
+    for (let i = 0; i < vertexCount; i++) {
+      this.adjMatrix[i] = new Array(vertexCount);
+    }
   }
 
   addEdge(from, to) {
