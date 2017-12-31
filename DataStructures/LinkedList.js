@@ -58,3 +58,5 @@ class Node {
     this.next = null;
   }
 }
+
+module.exports = LinkedList;
