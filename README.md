@@ -81,25 +81,25 @@ links to relevant resources.
 
 ### Data Structures
 * Graph
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Graph.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Graph.md)
   * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Graph.js)
 * Swap
   * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Swap.cs)
 * Linked List
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/LinkedList.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/LinkedList.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/LinkedList.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/LinkedList.js)
 * Stack 
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Stack.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/CustomStack.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Stack.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Stack.js)
 * Queue
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Queue.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/CustomQueue.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Queue.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Queue.js)
 * Hash
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Hash.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/CustomHash.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Hash.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/HashTable.js)
 * Binary Search Tree
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/BinarySearchTree.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/CustomBinarySearchTree.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/BinarySearchTree.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/BinarySearchTree.js)
 
 ### Systems Design
 * Patterns
