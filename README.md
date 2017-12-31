@@ -103,13 +103,13 @@ links to relevant resources.
 
 ### Systems Design
 * Patterns
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/SystemsDesign/DesignPatterns.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/SystemsDesign/DesignPatterns.md)
 * Class Structure
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/SystemsDesign/ClassStructure.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/SystemsDesign/ClassStructure.md)
 * Caching
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/SystemsDesign/Caching.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/SystemsDesign/Caching.md)
 * Scalability
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/SystemsDesign/Scalability.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/SystemsDesign/Scalability.md)
 
 ### Mathematics
 * Probability
@@ -118,13 +118,13 @@ links to relevant resources.
 
 ### Operating Systems
 * Basics
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/OperatingSystems/Basics.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/OperatingSystems/Basics.md)
 * Processes, threads and concurrency
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/OperatingSystems/Threading.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/OperatingSystems/Threading.md)
 * Locks, mutexes, semaphores and monitors.
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/OperatingSystems/LoMuSeMo.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/OperatingSystems/LoMuSeMo.md)
 * Deadlock and Livelock
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/OperatingSystems/Deadlock.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/OperatingSystems/Deadlock.md)
 
 ### Cracking Coding Interview Slides
 * [Cracking Coding Interview Slides](https://www.slideshare.net/gayle2/cracking-the-coding-interview-40140660)
