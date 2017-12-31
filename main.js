@@ -34,8 +34,8 @@ const WWP = require('./Greedy/WWP');
 // console.log(fibonacci.runMemoization(6));
 // console.log(fibonacci.runTabulation(6));
 
-var wwp = new WWP();
-wwp.runWWP("aaa bb cc dddd");
+// var wwp = new WWP();
+// wwp.runWWP("aaa bb cc dddd");
 
 
 // const mergeSort = new MergeSort();
