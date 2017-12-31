@@ -8,93 +8,81 @@ links to relevant resources.
 ### General
 
 * General
-  * [Runtime Analysis](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/RuntimeAnalysis.md)
-  * [Analysis of Loops](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/Analysis%20of%20Loops.md)
-  * [7 Steps to approach Algos](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/7%20Steps.md)
-  * [Optimization Strats](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/Algorithm%20Strategies.md)
-  * [Algorithmic Paradigms](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/AlgoParadigms.md)
+  * [Runtime Analysis](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/RuntimeAnalysis.md)
+  * [Analysis of Loops](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Analysis%20of%20Loops.md)
+  * [7 Steps to approach Algos](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/7%20Steps.md)
+  * [Optimization Strats](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Algorithm%20Strategies.md)
+  * [Algorithmic Paradigms](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/AlgoParadigms.md)
 
 ### Sorting
 * General Comparison of sort algos:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/AlgoComparison.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/AlgoComparison.md)
 * Selection Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/SelectionSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/SelectionSort.cs)
-  * [Video Link](https://youtu.be/qkEWDCjc8DU)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/SelectionSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/SelectionSort.js)
 * Stable Selection Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/StableSelectionSort.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/StableSelectionSort.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/StableSelectionSort.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/StableSelectionSort.js)
 * Insertion Sort:
-  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/InsertionSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/InsertionSort.cs)
-  * [Video Link](https://youtu.be/Nbb4aNBTIBc)
+  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/InsertionSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/InsertionSort.js)
 * Quick Sort:
-  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/QuickSort.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/Quicksort.cs)
-  * Video Link (Coming Soon)
+  * [Theory Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/QuickSort.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/Quicksort.js)
 * Merge Sort:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/MergeSort.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Sorting/MergeSort.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/MergeSort.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Sorting/MergeSort.js)
 
 ### Search
 * Binary Search:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Search/BinarySearch.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Search/BinarySearch.cs)
-  * Video Link (Coming Soon)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/BinarySearch.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/BinarySearch.js)
 * Interpolation Search
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Search/InterpolationSearch.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Search/InterpolationSearch.cs)
-  * Video Link (coming soon)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/InterpolationSearch.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Search/InterpolationSearch.js)
 
 ### Greedy Algos
 * Greedy Algorithms
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/Greedy%20Algorithms.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Greedy%20Algorithms.md)
 * Activity Selection:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/ActivitySelection.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/ActivitySelection.cs)
-  * Video Link (coming soon)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/ActivitySelection.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/ActivitySelection.js)
 * Djikstra's Algorithm (I call it ditkas, so sue me):
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/DitkasAlgo.md)
-  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/DitkasAlgo.cs)
-  * Video Link (coming soon)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/DitkasAlgo.md)
+  * [Code Link](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/DitkasAlgo.js)
 * Minumum Number of Coins:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/MinNumberOfCoins.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/MinNumberOfCoins.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfCoins.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfCoins.js)
 * Minimum Number of Platforms:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/MinNumberOfPlatforms.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/MinNumPlatforms.cs)
-* Fractional Knapsack
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/FractionalKnapsack.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/FractionalKnapsack.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfPlatforms.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/MinNumberOfPlatforms.js)
 * Word Wrap Problem
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/WWP.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Greedy/WWP.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/WWP.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Greedy/WWP.js)
 
 ### Dyanamic Programming
 * Theory:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Theory/Dynamic%20Programming.md)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Theory/Dynamic%20Programming.md)
 * Fibonacci:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/Fibonacci.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/Memoization.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/Fibonacci.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/Fiboonacci.js)
 * Longest Increasing Subsequence:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LIS.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LIS.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LIS.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LIS.js)
 * Longest Common Subsequence:
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LCS.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LCS.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LCS.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LCS.js)
 * Longest Pallindromic Subsequence
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LPS.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/LPS.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LPS.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/LPS.js)
 * Traveling Salesman
-  * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/Traveling%20Salesman.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/Dynamic%20Programming/TravelingSalesman.cs)
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/Traveling%20Salesman.md)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DynamicProgramming/TravelingSalesman.js)
 
 ### Data Structures
 * Graph
   * [Theory](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Graph.md)
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Graph.cs)
-  * [Graph BFS](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/BFSGraph.cs)
-  * [Graph DFS](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/GraphDFS.cs)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Graph.js)
 * Swap
   * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Swap.cs)
 * Linked List
