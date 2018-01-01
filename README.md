@@ -84,7 +84,7 @@ links to relevant resources.
   * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Graph.md)
   * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Graph.js)
 * Swap
-  * [Code](https://github.com/SHEFFcode/GeeksForGeeks/blob/master/GeeksForGeeks/DataStructures/Swap.cs)
+  * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/Swap.js)
 * Linked List
   * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/LinkedList.md)
   * [Code](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/DataStructures/LinkedList.js)
@@ -113,8 +113,11 @@ links to relevant resources.
 
 ### Mathematics
 * Probability
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Math/Probability.md)
 * Combinatronics
-* n choose k problems
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Math/Combinatronics.md)
+* N choose K problems
+  * [Theory](https://github.com/SHEFFcode/GeeksForGeeksJS/blob/master/Math/NChooseK.md)
 
 ### Operating Systems
 * Basics
